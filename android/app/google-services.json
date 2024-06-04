@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866835284470",
+    "project_id": "rentcar-3c3f1",
+    "storage_bucket": "rentcar-3c3f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866835284470:android:88ca3294169805ca9f47d7",
+        "android_client_info": {
+          "package_name": "com.example.carcom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eEdigyl5ife2aClEk5OgU7dTpj4ETUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
